@@ -17,7 +17,7 @@ Experience the classic Ludo board game in a fully automated implementation, deve
 - Clear tracking of moves and positions.
 - Enjoyable, error-free coding experience.
 
-![Ludo Board Game](A_vibrant_and_detailed_illustration_of_a_tradition.png)
+![Ludo Board Game](./A_vibrant_and_detailed_illustration_of_a_tradition.png)
 
 Jump into the fun and explore this exciting programming challenge!
 
