@@ -17,7 +17,7 @@ Experience the classic Ludo board game in a fully automated implementation, deve
 - Clear tracking of moves and positions.
 - Enjoyable, error-free coding experience.
 
-![Ludo Board Game](DALL·E 2024-12-18 18.27.03 - A vibrant and detailed illustration of a traditional Ludo board game setup, viewed from above. The board has four colorful quadrants_ red, blue, green.webp)
+![Ludo Board Game](./DALL·E 2024-12-18 18.27.03 - A vibrant and detailed illustration of a traditional Ludo board game setup, viewed from above. The board has four colorful quadrants_ red, blue, green.webp)
 
 Jump into the fun and explore this exciting programming challenge!
 
